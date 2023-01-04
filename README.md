@@ -22,7 +22,7 @@
 ## ***Schedule***
 |Week| 1 | 2 | 3 | 4 |
 |:--:|:-:|:-:|:-:|:-:|
-|[Week 1]()||| 
+|[Week 1]()|[단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|| 
 |[Week 2]()|||
 |[Week 3]()|||
 |[Week 4]()|||
