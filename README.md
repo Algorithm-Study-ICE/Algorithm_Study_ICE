@@ -22,7 +22,7 @@
 ## ***Schedule***
 |Week| 1 | 2 | 3 | 4 |
 |:--:|:-:|:-:|:-:|:-:|
-|[Week 1]()|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 괄호](https://www.acmicpc.net/problem/9012)| |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 괄호](https://www.acmicpc.net/problem/15489)
+|[Week 1]()|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 괄호](https://www.acmicpc.net/problem/9012)| |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 파스칼 삼각형](https://www.acmicpc.net/problem/15489)
 |[Week 2]()|||
 |[Week 3]()|||
 |[Week 4]()|||
