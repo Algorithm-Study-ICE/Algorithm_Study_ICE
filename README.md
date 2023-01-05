@@ -22,7 +22,7 @@
 ## ***Schedule***
 |Week| 1 | 2 | 3 | 4 |
 |:--:|:-:|:-:|:-:|:-:|
-|[Week 1]()|[단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|| 
+|[Week 1]()|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 괄호](https://www.acmicpc.net/problem/9012)|
 |[Week 2]()|||
 |[Week 3]()|||
 |[Week 4]()|||
@@ -33,7 +33,7 @@
 |[Week 9]()|||
 
 <!-- [십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/cross-shape-bomb/description)
-[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 토너먼트](https://www.acmicpc.net/problem/1057)
+[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 토너먼트](https://www.acmicpc.net/problem/1057)
 -->
 
 ## ***Member*** 
