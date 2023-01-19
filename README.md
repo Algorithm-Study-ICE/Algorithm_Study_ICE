@@ -24,7 +24,7 @@
 |:--:|:-:|:-:|:-:|:-:|
 |[Week 1](https://github.com/Algorithm-Study-ICE/Algorithm_Study_ICE/tree/main/Week/week1)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 괄호](https://www.acmicpc.net/problem/9012)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 사탕 게임](https://www.acmicpc.net/problem/3085)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 파스칼 삼각형](https://www.acmicpc.net/problem/15489)
 |[Week 2](https://github.com/Algorithm-Study-ICE/Algorithm_Study_ICE/tree/main/Week/week2)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 파일정리](https://www.acmicpc.net/problem/20291)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 부분수열의 합](https://www.acmicpc.net/problem/1182)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 영식이의 손가락](https://www.acmicpc.net/problem/1614)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 선분 위의 점](https://www.acmicpc.net/problem/11663)
-|[Week 3](https://github.com/Algorithm-Study-ICE/algorithm-study-ICE/tree/main/Week/week3)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 현수막 ](https://www.acmicpc.net/problem/14716)||
+|[Week 3](https://github.com/Algorithm-Study-ICE/algorithm-study-ICE/tree/main/Week/week3)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 현수막 ](https://www.acmicpc.net/problem/14716)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|
 |[Week 4]()|||
 |[Week 5]()|||
 |[Week 6]()|||
