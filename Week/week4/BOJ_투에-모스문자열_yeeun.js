@@ -39,7 +39,6 @@ function findNum(index, boolean) {
                 reverse = true;
             } else {
                 n *= BigInt(2);
-                console.log(`n: ${n}`);
             }
         }
 
