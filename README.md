@@ -4,8 +4,8 @@
 `JAVA`, `PYTHON`, `JavaScript`, `C++`
 
 ## ***Rule***
-- 매주 목요일 자정까지 `팀원이 1문제`씩 선별 후 각자 풀어보기.
-- 매주 회의는 수요일 `21시`
+- 매주 금요일 자정까지 `팀원이 1문제`씩 선별 후 각자 풀어보기.
+- 매주 회의는 목요일 `21시`
 - `백준`, `프로그래머스`, `LeetCode` 문제에서 선별하기.
 - 주마다 레파지토리에 문제 풀기
 - 무단으로 회의 불참시 `랜덤 카카오 선물`하기. 
@@ -26,7 +26,7 @@
 |[Week 2](https://github.com/Algorithm-Study-ICE/Algorithm_Study_ICE/tree/main/Week/week2)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 파일정리](https://www.acmicpc.net/problem/20291)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 부분수열의 합](https://www.acmicpc.net/problem/1182)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 영식이의 손가락](https://www.acmicpc.net/problem/1614)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 선분 위의 점](https://www.acmicpc.net/problem/11663)
 |[Week 3](https://github.com/Algorithm-Study-ICE/algorithm-study-ICE/tree/main/Week/week3)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 현수막 ](https://www.acmicpc.net/problem/14716)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
 |[Week 4](https://github.com/Algorithm-Study-ICE/algorithm-study-ICE/tree/main/Week/week4)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="11"> 투에-모스 문자열 ](https://www.acmicpc.net/problem/18222)|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="11"> 지구온난화 ](https://www.acmicpc.net/problem/5212)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="11"> 잃어버린 괄호 ](https://www.acmicpc.net/problem/1541)
-|[Week 5](https://github.com/Algorithm-Study-ICE/Algorithm_Study_ICE/tree/main/Week/week5)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="11"> 쿼드트리 ](https://www.acmicpc.net/problem/1992)||
+|[Week 5](https://github.com/Algorithm-Study-ICE/Algorithm_Study_ICE/tree/main/Week/week5)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="11"> 쿼드트리 ](https://www.acmicpc.net/problem/1992)||[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="11"> 새끼치기 ](https://www.acmicpc.net/problem/17291)
 |[Week 6]()|||
 |[Week 7]()|||
 |[Week 8]()|||
