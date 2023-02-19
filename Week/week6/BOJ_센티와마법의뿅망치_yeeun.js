@@ -3,7 +3,7 @@
 //            그냥 시간초과...모르겠읍니다....
 // 20230219 : Math.max로 시간초과가 뜨는것 같다는 피드백으로 조금 수정했는데
 //           이제는 그냥 "틀렸습니다"가 뜹니다. 하지만 전 맞았습니다.ㅜ
-
+// 뭐 틀린지 알았음 ㅎㅎ 수정할 예정
 let input = require('fs').readFileSync('예제.txt').toString().trim().split('\n');
 const [N, H, T] = input[0].split(" ").map(Number);
 
