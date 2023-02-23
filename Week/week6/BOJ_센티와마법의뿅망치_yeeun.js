@@ -3,44 +3,82 @@
 //            그냥 시간초과...모르겠읍니다....
 // 20230219 : Math.max로 시간초과가 뜨는것 같다는 피드백으로 조금 수정했는데
 //           이제는 그냥 "틀렸습니다"가 뜹니다. 하지만 전 맞았습니다.ㅜ
-// 뭐 틀린지 알았음 ㅎㅎ 수정할 예정
+
 let input = require('fs').readFileSync('예제.txt').toString().trim().split('\n');
 const [N, H, T] = input[0].split(" ").map(Number);
-
-const height = [];
-for(let i = 0 ; i < N ; i++) {
-    height.push(+input[i+1]);
-}
-height.sort((a, b) => b-a);
 
 let cnt = 0;
 // 키 순으로 정렬해
 // 키 젤 큰 애를 센티보다 작게 줄여
 // 그 다음으로 큰 애랑 센티 비교
 // 반복
-let tallIndex = 0;
+class Heap {
+    constructor() {
+        this.heap = [];
+    }
+    /**
+    * @param {number} newValue
+    */
+    push(newValue) {
+        const heap = this.heap;
+        heap.push(newValue);
+        let index = heap.length - 1, parent = Math.floor((index - 1) / 2);
+        while(index > 0 && heap[parent] < heap[index]) {
+            [heap[parent], heap[index]] = [heap[index], heap[parent]];
+            index = parent;
+            parent = Math.floor((index - 1) / 2);
+        }
+    }
+    /**
+* @return {number}
+    */
+    pop() {
+        const heap = this.heap;
+        if(heap.length <= 1) return heap.pop();
+        const ret = heap[0];
+        heap[0] = heap.pop();
+        let here = 0;
+        while(1) {
+            let left = here * 2 + 1, right = here * 2 + 2;
+            // 리프에 도달
+            if(left >= heap.length) break;
+            // heap[here]가 내려갈 위치를 찾는다.
+            let next = here;
+            if (heap[next] < heap[left]) next = left;
+            if (right < heap.length && heap[next] < heap[right]) next = right;
+            if (next === here) break;
+            [heap[here], heap[next]] = [heap[next], heap[here]];
+            here = next;
+        }
+        return ret;
+    }
+}
+
+let heap = new Heap();
+
+for(let i = 0 ; i < N ; i++) {
+    heap.push(+input[i+1]);
+}
 
 while(true) {
-    let tallest = height[tallIndex];
+    let tallest = heap.pop();
 
-    if(tallest < H || tallIndex === height.length) {
+    if(tallest < H) {
         console.log("YES");
         console.log(cnt);
         break; 
     }
 
     if(cnt === T || tallest == 1) {
-        tallest = Math.max(...height);
         console.log("NO");
         console.log(tallest);
         break;
     }
 
-    height[tallIndex] = parseInt(height[tallIndex] / 2);
+    heap.push(parseInt(tallest / 2));
     cnt++;
-
-    if (height[tallIndex] < H) tallIndex++;
 }
+
 // 가장 키 큰 거인 누군지 찾아
 // 걔 키 줄여
 // 제한 횟수도 줄여
