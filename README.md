@@ -29,7 +29,7 @@
 |[Week 5](https://github.com/Algorithm-Study-ICE/Algorithm_Study_ICE/tree/main/Week/week5)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="11"> 쿼드트리 ](https://www.acmicpc.net/problem/1992)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> Four Squares](https://www.acmicpc.net/problem/17626)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="11"> 새끼치기 ](https://www.acmicpc.net/problem/17291)
 |[Week 6](https://github.com/Algorithm-Study-ICE/Algorithm_Study_ICE/tree/main/Week/week6)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 토마토](https://www.acmicpc.net/problem/7576)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="11"> 포도주 시식 ](https://www.acmicpc.net/problem/2156)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="11"> 회전 초밥 ](https://www.acmicpc.net/problem/2531)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="11"> 센티와 마법의 뿅망치 ](https://www.acmicpc.net/problem/19638)
 |[Week 7](https://github.com/Algorithm-Study-ICE/Algorithm_Study_ICE/tree/main/Week/week7)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 줄어드는 수 ](https://www.acmicpc.net/problem/1174)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 회의실 배정 ](https://www.acmicpc.net/problem/1931)||
-|[Week 8]()|||
+|[Week 8](https://github.com/Algorithm-Study-ICE/Algorithm_Study_ICE/tree/main/Week/week8)|||
 |[Week 9]()|||
 
 <!-- [십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/cross-shape-bomb/description)
