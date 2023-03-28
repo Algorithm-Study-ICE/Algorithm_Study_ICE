@@ -5,7 +5,7 @@ const [a, b, c] = input.map(BigInt);
 
 function mult(a, b) {
     if(b == BigInt(1)) return a % c;
-    const val = mult(a, BigInt(parseInt(b/BigInt(2))))
+    const val = mult(a, BigInt(parseInt(b/BigInt(2)))) // 지수를 절반으로 계속 나눠줌
 
     if(b % BigInt(2) == 0) { // b가 짝수
         return (val * val) % c;
